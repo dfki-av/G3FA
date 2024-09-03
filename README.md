@@ -19,3 +19,4 @@ performance of our G3FA, we conducted comprehensive experiments using various
 evaluation protocols on VoxCeleb2 and TalkingHead benchmarks to demonstrate the
 effectiveness of our proposed framework compared to the state-of-the-art real-time face
 animation methods
+![pipe3_new-1](https://github.com/user-attachments/assets/9d9bf31e-7582-4c2c-8fe4-dcf56c9049eb)
