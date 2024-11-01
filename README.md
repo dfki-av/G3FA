@@ -1,12 +1,9 @@
 # G3FA
 This is the official code for BMVC 2024 paper, G3FA: Geometry-guided GAN for Face Animation.
-<h2>AnimateAnyone</h2>
-<p>Here are some AnimateAnyone results we generated, with the resolution of 512x768.</p>
 <video width="512" height="768" controls>
-    <source src="./live_demo.mp4" type="video/mp4">
+    <source src="https://github.com/dfki-av/G3FA/raw/refs/heads/main/live_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-
 Abstract:
 Animating human face images aims to synthesize a desired source identity in a
 natural-looking way mimicking a driving video’s facial movements. In this context,
