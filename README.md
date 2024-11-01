@@ -1,7 +1,7 @@
 # G3FA
 This is the official code for BMVC 2024 paper, G3FA: Geometry-guided GAN for Face Animation.
 <video width="512" height="768" controls>
-    <source src="https://github.com/dfki-av/G3FA/raw/refs/heads/main/live_demo.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/dfki-av/G3FA/main/live_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 Abstract:
