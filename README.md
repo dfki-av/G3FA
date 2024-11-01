@@ -1,6 +1,6 @@
 # G3FA
 This is the official code for BMVC 2024 paper, G3FA: Geometry-guided GAN for Face Animation.
-[Watch the demo video]([https://youtu.be/your-video-id](https://youtube.com/shorts/GRKZzE1SmeE))
+[Watch the demo video](https://youtube.com/shorts/GRKZzE1SmeE)
 Abstract:
 Animating human face images aims to synthesize a desired source identity in a
 natural-looking way mimicking a driving video’s facial movements. In this context,
