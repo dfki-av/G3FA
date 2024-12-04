@@ -53,7 +53,6 @@ To run the live demo, run the following command:
 ```bash
 python demo.py --source_image path/to/source.png \
                --checkpoint checkpoints/g3fa.pt \
-               --output out.mp4
 ```
 
 ## To-Do
