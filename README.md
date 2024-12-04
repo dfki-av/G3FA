@@ -1,8 +1,7 @@
 # G3FA: Geometry-Guided GAN for Face Animation (BMVC 2024)
 
 
-This is the official repository for **G3FA: Geometry-Guided GAN for Face Animation**, presented at BMVC 2024. This repository contains the code, pre-trained models, and instructions for using our approach to real-time, geometry-consistent face animation.
-
+This is the official repository for **G3FA: Geometry-Guided GAN for Face Animation**, presented at BMVC 2024. 
 ## Overview
 Animating a human face image from a single source frame involves generating a natural-looking, identity-consistent representation that mimics the movements of a driving video. While Generative Adversarial Networks (GANs) have demonstrated promising results in real-time face reenactment, they often lack the geometric consistency provided by graphics-based methods.
 
