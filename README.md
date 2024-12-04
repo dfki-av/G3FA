@@ -21,7 +21,7 @@ Animating a human face image from a single source frame involves generating a na
 ## Getting Started
 
 ### Prerequisites
-Ensure you have [Conda](https://docs.conda.io/en/latest/) installed on your system. You will also need Python 3.8 or later.
+You will need Python 3.8 or later.
 
 ### Installation
 
@@ -48,7 +48,7 @@ Ensure you have [Conda](https://docs.conda.io/en/latest/) installed on your syst
 
 ### Running the Demo
 
-To generate an animated face, run the following command:
+To run the live demo, run the following command:
 
 ```bash
 python demo.py --source_image path/to/source.png \
@@ -57,14 +57,14 @@ python demo.py --source_image path/to/source.png \
 ```
 
 ## To-Do
-- Include training scripts
-- Add evaluation scripts 
+- Including training scripts
+- Adding evaluation scripts 
 
 
 ## Acknowledgements
 This repository builds upon the following works:
 - [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
-- [FNeVR]([https://github.com/fnevr](https://github.com/zengbohan0217/FNeVR))
+- [FNeVR](https://github.com/zengbohan0217/FNeVR)
 
 
 
