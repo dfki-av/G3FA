@@ -43,10 +43,8 @@ Ensure you have [Conda](https://docs.conda.io/en/latest/) installed on your syst
    ```
 
 4. **Download Pre-Trained Checkpoints**
-   ```bash
-   mkdir -p checkpoints
-   [Checkpoint](https://drive.google.com/uc?id=1hBy6r00HGgRtyGaeC0OsNXZkmyT82tFT)
-   ```
+[Checkpoint](https://drive.google.com/uc?id=1hBy6r00HGgRtyGaeC0OsNXZkmyT82tFT)
+   
 
 ### Running the Demo
 
