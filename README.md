@@ -51,7 +51,7 @@ You will need Python 3.8 or later.
 To run the live demo, run the following command:
 
 ```bash
-python demo.py --source_image path/to/source.png \
+python live_demo.py --source_image path/to/source.png \
                --checkpoint checkpoints/g3fa.pt \
 ```
 
