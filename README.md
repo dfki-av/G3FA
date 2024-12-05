@@ -33,12 +33,13 @@ You will need Python 3.8 or later.
 
 2. **Set Up the Conda Environment**
    ```bash
-   conda create -n g3fa_env python=3.8
+   conda create -n g3fa_env python=3.10 -y
    conda activate g3fa_env
    ```
 
 3. **Install Required Packages**
    ```bash
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
    pip install -r requirements.txt
    ```
 
