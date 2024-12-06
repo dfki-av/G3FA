@@ -16,7 +16,7 @@ dataset_params:
 
 model_params:
   common_params:
-    num_kp: 10
+    num_kp: 15
     num_channels: 3
     estimate_jacobian: True
   kp_detector_params:
