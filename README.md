@@ -66,5 +66,14 @@ This repository builds upon the following works:
 - [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 - [FNeVR](https://github.com/zengbohan0217/FNeVR)
 
-
-
+## Citation
+```bibtex
+@inproceedings{Javanmardi_2024_BMVC,
+  author    = {Alireza Javanmardi and Alain Pagani and Didier Stricker},
+  title     = {G3FA: Geometry-guided GAN for Face Animation},
+  booktitle = {35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK, November 25-28, 2024},
+  publisher = {BMVA},
+  year      = {2024},
+  url       = {https://papers.bmvc2024.org/0657.pdf}
+}
+```
