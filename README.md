@@ -56,6 +56,19 @@ python live_demo.py --source_image path/to/source.png \
                --checkpoint checkpoints/g3fa.pt \
 ```
 
+### Training
+
+- To start the training process, first download CelebA inverse rendering checkpoint from:
+https://github.com/elliottwu/unsup3d
+
+- Our training code also support ditributed training on multiple GPUs using the followig command:
+- Dataset as a zip file for higher efficiency processing should be placed in a folder which the address is provided in the config file.
+
+```bash
+python run.py --config=./config/vox-256.yaml \
+               --device_ids=0,1,3,4 \
+               --log_dir= ./log
+```
 ## To-Do
 - Including training scripts
 - Adding evaluation scripts 
